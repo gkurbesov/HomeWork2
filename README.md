@@ -1,6 +1,6 @@
 # Пример репозитория для выполнения заданий
 
-один урок - [одно решение (solution)](https://docs.microsoft.com/ru-ru/visualstudio/ide/solutions-and-projects-in-visual-studio?view=vs-2019#solutions)
+Один урок - [одно решение (solution)](https://docs.microsoft.com/ru-ru/visualstudio/ide/solutions-and-projects-in-visual-studio?view=vs-2019#solutions)
 
 Каждое задание можно поместить в отдельный [проект](https://docs.microsoft.com/ru-ru/visualstudio/ide/solutions-and-projects-in-visual-studio?view=vs-2019#solutions) в рамках решения.
 
